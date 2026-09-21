@@ -1,0 +1,11 @@
+# analysis scripts (04-09) need nothing beyond the standard library
+# figures
+matplotlib>=3.7
+numpy>=1.24
+pandas>=2.0
+plotly>=5.18
+playwright>=1.40          # renders the plotly figures to PNG
+# reference calculations (optional; their outputs ship in data/derived)
+pyscf>=2.14               # script 01
+ase>=3.24                 # scripts 02, 03
+mace-torch>=0.3.6         # scripts 02, 03

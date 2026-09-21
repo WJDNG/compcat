@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: If you use this software or data, please cite the accompanying paper.
+title: "compcat: reproduction code for machine-learning screening of high-entropy alloy catalysts"
+abstract: >-
+  Reference diagnostics, sampling-design tests and offset-invariant descriptors
+  for a 646,000-configuration machine-learning screen of high-entropy alloys for
+  dry methane reforming.
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: "Wu"
+    given-names: "Jundao"
+  - family-names: "Lukin"
+    given-names: "Ruslan"
+  - family-names: "Nazmutdinov"
+    given-names: "Renat"
+  - family-names: "Vasilyev"
+    given-names: "Vadim"
+  - family-names: "Liu"
+    given-names: "Jing"
+  - family-names: "He"
+    given-names: "Zhen"
+  - family-names: "Huang"
+    given-names: "Zeai"
+  - family-names: "Sinyashin"
+    given-names: "Oleg G."
+  - family-names: "Zairov"
+    given-names: "Rustem"
+preferred-citation:
+  type: article
+  title: "Reference Diagnostics and Sampling Design for Machine-Learning Screening of High-Entropy Alloy Catalysts: 646,000 Configurations for Dry Methane Reforming"
+  authors:
+    - family-names: "Wu"
+      given-names: "Jundao"
+    - family-names: "Lukin"
+      given-names: "Ruslan"
+    - family-names: "Nazmutdinov"
+      given-names: "Renat"
+    - family-names: "Vasilyev"
+      given-names: "Vadim"
+    - family-names: "Liu"
+      given-names: "Jing"
+    - family-names: "He"
+      given-names: "Zhen"
+    - family-names: "Huang"
+      given-names: "Zeai"
+    - family-names: "Sinyashin"
+      given-names: "Oleg G."
+    - family-names: "Zairov"
+      given-names: "Rustem"
+  year: 2026
+  journal: "Computational Materials Science"

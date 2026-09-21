@@ -1,0 +1,35 @@
+{
+  "system": "AlCoCuFeNi",
+  "size": "3x3x4",
+  "calculator": "MACE-MP-0 medium",
+  "note": "Control rebuilt in this work; see scripts/03_bcc_facet_control.py",
+  "facets": {
+    "111": {
+      "n_atoms": 36,
+      "n_levels": 4,
+      "min_interlayer_A": 0.83,
+      "mean_surface_cn": 7.0,
+      "E_clean_eV": -177.44,
+      "formation_energy_eV": {
+        "C": 2.06,
+        "H": -0.12,
+        "O": 1.78,
+        "CH3": 0.24,
+        "CO": -0.49
+      }
+    },
+    "110": {
+      "n_atoms": 36,
+      "n_levels": 4,
+      "min_interlayer_A": 2.03,
+      "mean_surface_cn": 10.0,
+      "E_clean_eV": -202.681,
+      "formation_energy_eV": {
+        "C": 1.99,
+        "H": -0.23,
+        "O": 1.02
+      }
+    }
+  },
+  "conclusion": "The facet choice is a real error but is not the cause of the archived magnitudes: both facets return values inside the physical range."
+}
